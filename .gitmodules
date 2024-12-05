@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "IDLFM"]
 	path = IDLFM
-	url = https://github.com/cran/IDLFM
+	url = https://github.com/skylarliu0529/idlfm
